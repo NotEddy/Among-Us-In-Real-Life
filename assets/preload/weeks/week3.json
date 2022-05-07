@@ -1,22 +1,103 @@
 {
 	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+		[
+			"Pico",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Pico In Game Version",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Philly Nice",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Philly Nice In Game Version",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blammed",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blammed Ost Version",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blammed Week 4 Update",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blammed In Game Version",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blammed In Game Mix",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
 	],
-
 	"weekCharacters": [
-		"pico",
+		"dad",
 		"bf",
 		"gf"
 	],
 	"weekBackground": "philly",
-
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
+	"weekBefore": "tutorial",
+	"storyName": "PIco",
+	"weekName": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"startUnlocked": true,
-
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideFreeplay": false,
+	"difficulties": "Normal"
 }
