@@ -1,3 +1,8 @@
+bf-igor
+bf2
+grandpa
+mona-lisa
+pico-igor
 bf
 dad
 gf
@@ -19,3 +24,4 @@ senpai-angry
 spirit
 bf-pixel-opponent
 pico-player
+your dad
