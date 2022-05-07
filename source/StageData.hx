@@ -39,8 +39,8 @@ class StageData {
 					stage = 'limo';
 				case 'cocoa' | 'eggnog':
 					stage = 'mall';
-				case 'winter-horrorland':
-					stage = 'mallEvil';
+				case 'pico-in-game-version':
+					stage = 'gram';
 				case 'senpai' | 'roses':
 					stage = 'school';
 				case 'thorns':

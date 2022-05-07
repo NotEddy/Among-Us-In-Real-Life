@@ -445,7 +445,7 @@ class PlayState extends MusicBeatState
 				CoolUtil.precacheSound('thunder_1');
 				CoolUtil.precacheSound('thunder_2');
 
-                        case 'gram': //Week 3 - Pico In Game Version
+                        case 'gram': //Week 3
 				var bg:BGSprite = new BGSprite('gran/stageback', -600, -200, 0.9, 0.9);
 				add(bg);
 
