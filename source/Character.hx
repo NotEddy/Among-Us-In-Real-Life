@@ -91,7 +91,7 @@ class Character extends FlxSprite
 		var library:String = null;
 		switch (curCharacter)
 		{
-			//case 'your character name in case you want to hardcode him instead':
+			//case 'bf-igor':
 
 			default:
 				var characterPath:String = 'characters/' + curCharacter + '.json';
