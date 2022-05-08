@@ -190,8 +190,8 @@
 	"no_antialiasing": false,
 	"image": "characters/gfCow",
 	"position": [
-		0,
-		0
+		-20,
+		-70
 	],
 	"healthicon": "gf",
 	"flip_x": false,
