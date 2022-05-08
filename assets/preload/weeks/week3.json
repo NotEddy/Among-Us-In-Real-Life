@@ -2,7 +2,7 @@
 	"songs": [
 		[
 			"Pico",
-			"dad",
+			"pico-igor",
 			[
 				146,
 				113,
@@ -11,7 +11,7 @@
 		],
 		[
 			"Pico In Game Version",
-			"dad",
+			"grandpa",
 			[
 				146,
 				113,
@@ -20,7 +20,7 @@
 		],
 		[
 			"Philly Nice",
-			"dad",
+			"pico",
 			[
 				146,
 				113,
@@ -29,7 +29,7 @@
 		],
 		[
 			"Philly In Game Ver",
-			"dad",
+			"lady",
 			[
 				146,
 				113,
@@ -38,7 +38,7 @@
 		],
 		[
 			"Blammed",
-			"dad",
+			"pico",
 			[
 				146,
 				113,
@@ -47,7 +47,7 @@
 		],
 		[
 			"Blammed Ost Version",
-			"dad",
+			"homestuck",
 			[
 				146,
 				113,
@@ -56,7 +56,7 @@
 		],
 		[
 			"Blammed Week 4 Update",
-			"dad",
+			"fetty",
 			[
 				146,
 				113,
@@ -65,7 +65,7 @@
 		],
 		[
 			"Blammed In Game Version",
-			"dad",
+			"juice",
 			[
 				146,
 				113,
@@ -74,7 +74,7 @@
 		],
 		[
 			"Blammed In Game Mix",
-			"dad",
+			"lady",
 			[
 				146,
 				113,
@@ -83,13 +83,13 @@
 		]
 	],
 	"weekCharacters": [
-		"dad",
+		"pico",
 		"bf",
 		"gf"
 	],
 	"weekBackground": "philly",
 	"weekBefore": "tutorial",
-	"storyName": "PIco",
+	"storyName": "Pico",
 	"weekName": "week3",
 	"freeplayColor": [
 		146,
